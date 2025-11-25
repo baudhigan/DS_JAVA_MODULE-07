@@ -19,7 +19,7 @@ If there is no cycle, the program should return null without modifying the linke
 /*
 program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
 Developed by: BAUDHIGAN D
-RegisterNumber: 212223040072
+RegisterNumber: 212223230028
 */
 class Node {
     int data;
