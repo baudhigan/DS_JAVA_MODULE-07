@@ -19,7 +19,7 @@ Display the rotated linked list.
 /*
 Program to  Right Rotation LinkedList
 Developed by: BAUDHIGAN D
-RegisterNumber:  212223040072
+RegisterNumber:  212223230028
 */
 
 import java.util.Scanner;
